@@ -1,6 +1,6 @@
 # Arena FPS
 
-A small browser first-person shooter built with [Three.js](https://threejs.org/). Survive waves of red cubes that chase you across an arena full of crates.
+A small browser first-person shooter built with [Three.js](https://threejs.org/). Survive waves of red cubes that chase you through a walled town: brick and plaster buildings you can walk into, streets with sidewalks and street lamps, a market, a shipping-container yard and a military checkpoint with tents, sandbags and a watchtower. All textures are generated procedurally in code, so there are no asset files.
 
 ## Play
 
